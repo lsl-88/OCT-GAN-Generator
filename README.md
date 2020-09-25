@@ -8,4 +8,4 @@
 This repository provides the source code for the generation of OCT scans with pathologies (choroidal neovascularization (CNV), diabetic macular edema (DME), Drusen). This framework uses a deep convolutional GAN (DCGAN) model to generate low resolution OCT images and the enhanced deep residual networks for single image super-resolution (EDSR) model was then used to generate super resolution OCT images. The implementation is performed using Tensorflow.
 
 # Data
-Kaggle - https://www.kaggle.com/paultimothymooney/kermany2018)
+Kaggle - https://www.kaggle.com/paultimothymooney/kermany2018
