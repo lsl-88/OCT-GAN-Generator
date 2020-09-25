@@ -1,5 +1,5 @@
 # OCT-GAN-Generator
-![](CNV.gif)
+![CNV](CNV.gif)
 
 
 # Data
