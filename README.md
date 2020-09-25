@@ -1,7 +1,5 @@
 # OCT-GAN-Generator
-![CNV](gif/CNV.gif)
-![DME](gif/DME.gif)
-![Drusen](gif/Drusen.gif)
+![CNV](https://github.com/lsl-88/OCT-GAN-Generator/tree/master/gifs/CNV.gif)
 
 
 # Data
